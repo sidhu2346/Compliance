@@ -1,0 +1,8 @@
+{
+  "name": "Gemini Nexus",
+  "description": "A multimodal AI suite featuring real-time Live conversation, advanced chat with grounding, and high-fidelity media generation.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
